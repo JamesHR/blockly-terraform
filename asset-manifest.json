@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/blockly-terraform/static/css/main.5774cfbe.css",
+    "main.js": "/blockly-terraform/static/js/main.f454a0e6.js",
+    "static/js/787.dbff30fb.chunk.js": "/blockly-terraform/static/js/787.dbff30fb.chunk.js",
+    "index.html": "/blockly-terraform/index.html",
+    "main.5774cfbe.css.map": "/blockly-terraform/static/css/main.5774cfbe.css.map",
+    "main.f454a0e6.js.map": "/blockly-terraform/static/js/main.f454a0e6.js.map",
+    "787.dbff30fb.chunk.js.map": "/blockly-terraform/static/js/787.dbff30fb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5774cfbe.css",
+    "static/js/main.f454a0e6.js"
+  ]
+}
